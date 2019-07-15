@@ -109,8 +109,7 @@ public class Discoteca
 				System.out.println(listaMayoresA30[i]);
 			}
 				
-		return null; /* al final no supe como devolver el tipo invitado asi que devolvi un null y anteriormente 
-		imprimi los invitados por pantalla con un for*/
+		return listaMayoresA30; //devuelvo la lista que cree que tiene los mayores a 30
 	}
 
 }
